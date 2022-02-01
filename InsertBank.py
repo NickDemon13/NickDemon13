@@ -1,5 +1,5 @@
-Print('Please Write The Bank Detail Information')
+print('Please Write The Bank Detail Information')
 
-Print('No Account    :                          ')
-Print('Kind Of Bank  :                          ')
-Print('Bank name     :                          ')
+print('No Account    :                          ')
+print('Kind Of Bank  :                          ')
+print('Bank name     :                          ')
