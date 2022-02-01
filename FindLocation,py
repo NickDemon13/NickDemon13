@@ -1,1 +1,1 @@
-Print('Insert The IP Of The Phone/Computer Target :____________________')
+print('Insert The IP Of The Phone/Computer Target :____________________')
