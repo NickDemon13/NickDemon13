@@ -1,5 +1,10 @@
+
 print('Please Choose The Bank Owner Case Type & How Many Report You Want Make')
 print('#Warning! This action will make this bank number get locked and dealing with the police in the country.')
+
+print('No Account    : 03111020232075')
+print('Kind Of Bank  : BANK ISLAM MALAYSIA')
+print('Bank name     : ENCIK WAN MOHAMAD HAFIZAN BIN WAN ABDULL')
 
 
 print('1.Gamble Case')
