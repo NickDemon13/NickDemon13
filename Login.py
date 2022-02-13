@@ -23,7 +23,7 @@ def banner():
 def requirements():
 	def csv_lib():
 		banner()
-		print(gr+'['+cy+'+'+gr+']'+cy+' this may take some time ...')
+		print(gr+'['+cy+'+'+gr+']'+cy+' Tunggu Bentar Njing ...')
 		os.system("""
 			pip3 install cython numpy pandas
 			python3 -m pip install cython numpy pandas
@@ -35,14 +35,14 @@ def requirements():
 		csv_lib()
 	else:
 		pass
-	print(gr+"[+] Installing requierments ...")
+	print(gr+"[+] Lagi Instal Njing ...")
 	os.system("""
 		pip3 install telethon requests configparser
 		python3 -m pip install telethon requests configparser
 		touch config.data
 		""")
 	banner()
-	print(gr+"[+] requierments Installed.\n")
+	print(gr+"[+] Ok Done Njing.\n")
 
 
 def config_setup():
